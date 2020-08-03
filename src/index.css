@@ -5,7 +5,8 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background: linear-gradient(to left, #333, #777 50%, #eee 75%);
+
+  
 }
 
 code {
@@ -15,4 +16,8 @@ code {
 
 button {
 	cursor: pointer;
+}
+
+.tsparticles-canvas-el {
+	background: linear-gradient(45deg, red, blue);
 }
